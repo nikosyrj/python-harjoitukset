@@ -1,0 +1,10 @@
+import random
+numero01 = random.randint(0,9)
+numero02 = random.randint(0,9)
+numero03 = random.randint(0,9)
+print(f"Komenumeroinen koodi: {numero01}{numero02}{numero03}")
+numero01 = random.randint(1,6)
+numero02 = random.randint(1,6)
+numero03 = random.randint(1,6)
+numero04 = random.randint(1,6)
+print(f"Nelinumeroinen koodi: {numero01}{numero02}{numero03}{numero04}")
